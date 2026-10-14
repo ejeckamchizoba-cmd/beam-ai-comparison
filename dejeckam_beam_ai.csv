@@ -1,0 +1,173 @@
+method,model,run,iteration,width_mm,height_mm,mass_kg,max_deflection_mm,max_von_mises_stress_MPa,feasible,response_status,elapsed_seconds,raw_response
+GPT-4.1 mini,gpt-4.1-mini,1,0,50.0,80.0,31.4,0.48828125,46.875,True,starting_design_evaluated,,
+GPT-4.1 mini,gpt-4.1-mini,1,1,40.0,70.0,21.98,0.9110787172011662,76.53061224489797,True,evaluated,2.055685,"{""width_mm"":40.0,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,1,2,35.0,70.0,19.2325,1.0412328196584757,87.46355685131196,False,evaluated,0.606631,"{
+  ""width_mm"": 35.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,3,38.0,70.0,20.881,0.9590302286328064,80.55853920515574,True,evaluated,1.027497,"{
+  ""width_mm"": 38.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,4,37.0,70.0,20.3315,0.9849499645418012,82.73579702151132,True,evaluated,1.061291,"{
+  ""width_mm"": 37.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,5,36.0,70.0,19.782,1.0123096857790734,85.03401360544218,False,evaluated,0.646421,"{
+  ""width_mm"": 36.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,6,39.0,70.0,21.4305,0.934439709949914,78.49293563579278,True,evaluated,0.611106,"{
+  ""width_mm"": 39.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,7,37.5,70.0,20.60625,0.9718172983479106,81.63265306122449,True,evaluated,0.403946,"{""width_mm"":37.5,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,1,8,36.5,70.0,20.05675,0.9984424298094972,83.86916410399776,True,evaluated,0.535404,"{""width_mm"":36.5,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,1,9,36.0,71.0,20.0646,0.970135654456617,82.65555775970377,True,evaluated,0.443335,"{
+  ""width_mm"": 36.0,
+  ""height_mm"": 71.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,1,10,35.5,71.0,19.785925,0.9837995369137524,83.8197205450517,True,evaluated,0.955014,"{""width_mm"":35.5,""height_mm"":71.0}"
+GPT-4.1 mini,gpt-4.1-mini,1,11,35.0,71.0,19.50725,0.9978538160125204,85.01714512426672,True,evaluated,6.57934,"{""width_mm"":35.0,""height_mm"":71.0}"
+GPT-4.1 mini,gpt-4.1-mini,2,0,50.0,80.0,31.4,0.48828125,46.875,True,starting_design_evaluated,,
+GPT-4.1 mini,gpt-4.1-mini,2,1,40.0,70.0,21.98,0.9110787172011662,76.53061224489797,True,evaluated,0.93337,"{""width_mm"":40.0,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,2,2,35.0,70.0,19.2325,1.0412328196584757,87.46355685131196,False,evaluated,6.839871,"{
+  ""width_mm"": 35.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,3,38.0,70.0,20.881,0.9590302286328064,80.55853920515574,True,evaluated,6.67778,"{
+  ""width_mm"": 38.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,4,37.0,70.0,20.3315,0.9849499645418012,82.73579702151132,True,evaluated,6.671525,"{
+  ""width_mm"": 37.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,5,36.0,70.0,19.782,1.0123096857790734,85.03401360544218,False,evaluated,6.550648,"{
+  ""width_mm"": 36.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,6,39.0,70.0,21.4305,0.934439709949914,78.49293563579278,True,evaluated,6.725503,"{
+  ""width_mm"": 39.0,
+  ""height_mm"": 70.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,7,37.5,70.0,20.60625,0.9718172983479106,81.63265306122449,True,evaluated,6.635181,"{""width_mm"":37.5,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,2,8,36.5,70.0,20.05675,0.9984424298094972,83.86916410399776,True,evaluated,6.573116,"{""width_mm"":36.5,""height_mm"":70.0}"
+GPT-4.1 mini,gpt-4.1-mini,2,9,36.0,71.0,20.0646,0.970135654456617,82.65555775970377,True,evaluated,0.521688,"{""width_mm"":36.0,""height_mm"":71.0}"
+GPT-4.1 mini,gpt-4.1-mini,2,10,35.5,71.0,19.785925,0.9837995369137524,83.8197205450517,True,evaluated,6.644629,"{
+  ""width_mm"": 35.5,
+  ""height_mm"": 71.0
+}"
+GPT-4.1 mini,gpt-4.1-mini,2,11,35.0,71.0,19.50725,0.9978538160125204,85.01714512426672,True,evaluated,6.80026,"{
+  ""width_mm"": 35.0,
+  ""height_mm"": 71.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,0,50.0,80.0,31.4,0.48828125,46.875,True,starting_design_evaluated,,
+Llama 3.2 1B,llama3.2:1b,1,1,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,5.361637,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,2,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.941428,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,3,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.634983,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,4,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.551466,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,1,5,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.51286,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,1,6,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.527696,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,1,7,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.703422,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,8,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.78106,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,1,9,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.628249,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,1,10,,,,,,,invalid_dimensions,4.216976,"{
+
+  ""designs"": [
+    {
+      ""width_mm"": 50,
+      ""height_mm"": 80
+    }
+  ]
+}"
+Llama 3.2 1B,llama3.2:1b,1,11,,,,,,,invalid_dimensions,3.159999,"{
+  ""design"": {
+    ""width_mm"": 50,
+    ""height_mm"": 80
+  }
+}"
+Llama 3.2 1B,llama3.2:1b,2,0,50.0,80.0,31.4,0.48828125,46.875,True,starting_design_evaluated,,
+Llama 3.2 1B,llama3.2:1b,2,1,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.165289,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,2,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.629275,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,3,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.64858,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,4,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.54934,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,2,5,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.542706,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,2,6,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.588935,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,2,7,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.777189,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,8,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.71102,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,9,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.557018,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+Llama 3.2 1B,llama3.2:1b,2,10,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.831426,"{
+
+  ""width_mm"": 50.0,
+  ""height_mm"": 80.0
+}"
+Llama 3.2 1B,llama3.2:1b,2,11,50.0,80.0,31.4,0.48828125,46.875,True,evaluated,3.679478,"{
+  ""width_mm"": 50,
+  ""height_mm"": 80
+}"
+SciPy optimizer,SciPy,1,1,20.0,85.5016,13.4238,0.9999,102.5917,True,optimizer_result,,Recorded optimizer result
